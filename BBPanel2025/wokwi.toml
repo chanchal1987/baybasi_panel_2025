@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+elf = "build/bbpanel2025.ino.elf"
+firmware = "build/bbpanel2025.ino.bin"
